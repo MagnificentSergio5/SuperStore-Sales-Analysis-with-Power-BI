@@ -3,7 +3,7 @@
 
 **🧾 Project Overview**
 
-This project presents a comprehensive sales analysis dashboard for SuperStore, built using Power BI. The dashboard offers interactive visualizations and key performance indicators (KPIs) to help stakeholders understand sales performance, profitability, and customer behavior across various dimensions such as region, category, and time.
+This project presents a comprehensive sales analysis dashboard for SuperStore, built using Power BI. The dashboard offers interactive visualizations and key performance indicators (KPIs) to help stakeholders understand sales performance, profitability, and customer behavior across various dimensions such as region, category, and time. Details of the insights [here]( https://github.com/MagnificentSergio5/SuperStore-Sales-Analysis-with-Power-BI/blob/main/Detailed%20Description).
 
 ## 🧰 Technical Implementation
 
@@ -27,8 +27,6 @@ Drill-down Capability: From summary metrics to specific details
 Responsive Layout: Optimized for various screen sizes
 
 Dynamic Updates: Ready for real-time data integration
-
-To interact with the dashboard, click here.
 
 
 
@@ -70,9 +68,11 @@ Allocate resources more effectively
 
 **📎 Files**
 
-SuperStore-Sales-Analysis.pbix: Power BI dashboard file
+SuperStore-Sales-Analysis.pbix: [Power BI dashboard file]( https://github.com/MagnificentSergio5/SuperStore-Sales-Analysis-with-Power-BI/blob/main/Project.pbix).
 
-SuperStoreData.xlsx (if applicable): Original dataset
+SuperStoreData.xlsx: [Original dataset]( https://github.com/MagnificentSergio5/SuperStore-Sales-Analysis-with-Power-BI/blob/main/1-4-%20Superstore%20Sales.xlsx).
+
+To interact with the dashboard, [click here](https://www.novypro.com/create_project/superstore-sales-analysis-36)
 
 
 
@@ -80,7 +80,7 @@ SuperStoreData.xlsx (if applicable): Original dataset
 
 **📬 Contact**
 
-For feedback, collaboration, or inquiries, feel free to reach out via LinkedIn or email.
+For feedback, collaboration, or inquiries, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/gbolahan-salahudeen?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) or send an [email](salahudeengbolahan10@gmail.com).
 
 
 
