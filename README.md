@@ -1,4 +1,5 @@
 ### 📊 SuperStore Sales Analysis Dashboard
+![dashboard Screenshot](https://github.com/MagnificentSergio5/SuperStore-Sales-Analysis-with-Power-BI/blob/main/Cover%20Page.png)
 
 **🧾 Project Overview**
 
